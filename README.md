@@ -51,7 +51,7 @@ Precision, Recall, F1-score by class shown using classification_report
 
 1. Open the notebook using [Google Colab](https://colab.research.google.com/).  
 2. Upload the `telco_customer_churn.csv` dataset using the Colab file upload interface.   (For this run only 1st cell and your'll see the upload bar to upload the file)
-# 3. Run the notebook cells sequentially.
+3. Run the notebook cells sequentially. (important)
 
 ---
 
